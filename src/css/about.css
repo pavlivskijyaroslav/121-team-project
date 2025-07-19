@@ -7,3 +7,9 @@
   color: black;
   max-width: 150px;
 }
+
+.about__title {
+  display: block;
+  font-size: 40px;
+  font-weight: 700;
+}
